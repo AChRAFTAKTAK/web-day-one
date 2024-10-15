@@ -1,0 +1,21 @@
+# Responses
+## section 1:
+what is web development:
+The basic tools involved in web development are programming languages called HTML/css.
+what is html:
+HTML stands for Hyper Text Markup Language.
+## section 2 :
+what is css:
+CSS is used to define styles for your web pages
+what is web 1:
+Web 1.0 is the term for the earliest version of the Internet from the 1990s to the early 2000s
+what is web 2:
+Web 2.0 are websites and applications that make use of user-generated content for end users.
+what is javascript :
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages.
+what is react :
+React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
+what is node js :
+runtime
+why do you want to learn web development:
+new beginning
